@@ -1,0 +1,1 @@
+A small wrapper around AWS SES.
